@@ -1,0 +1,7 @@
+com\cssl\dao\NewsDetailDao.class
+com\cssl\controller\NewsController.class
+com\cssl\service\impl\NewsServiceImpl.class
+com\cssl\DemoApplication.class
+com\cssl\MapperScan.class
+com\cssl\service\NewsService.class
+com\cssl\pojo\NewsDetail.class
